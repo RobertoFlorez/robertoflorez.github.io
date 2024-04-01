@@ -10,7 +10,6 @@ redirect_from:
 I am a M.Sc Physics student at the University of Stuttgart, member of the International Max Planck Research School (IMPRS) for Condensed Matter Science. I am currently working at the Fraunhofer IPA at the intersection between Quantum Computing (Numerical/Theory) and Machine Learning (Kernel Methods). 
 
 # Experience and projects:
-
 ## Quantum Machine Learning Algorithms
 - **Type of Work:** Master's Thesis Research and Student Research Assistant
 - **Organization:** [Fraunhofer IPA - Quantum Computing group](https://www.ipa.fraunhofer.de/en/expertise/cyber-cognitive-intelligence-cci/quantencomputing.html), Stuttgart, Germany (08/2023 - current)
