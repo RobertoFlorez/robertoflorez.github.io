@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Click here to download CV  
+[See complete CV here](../files/BSC_poster.pdf)
