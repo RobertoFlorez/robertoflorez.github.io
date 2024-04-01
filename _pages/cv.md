@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[See complete CV here](../files/BSC_poster.pdf)
+[See complete CV here](../files/CVRobertoFlorez_2024_S.pdf)
