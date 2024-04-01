@@ -9,9 +9,8 @@ redirect_from:
 
 I am a M.Sc Physics student at the University of Stuttgart, member of the International Max Planck Research School (IMPRS) for Condensed Matter Science. I am currently working at the Fraunhofer IPA at the intersection between Quantum Computing (Numerical/Theory) and Machine Learning (Kernel Methods). 
 
-## Experience:
+# Experience:
 
-```markdown
 ## Master's Thesis Research and Student Research Assistant
 - **Organization:** [Fraunhofer IPA - Quantum Computing group](https://www.ipa.fraunhofer.de/en/expertise/cyber-cognitive-intelligence-cci/quantencomputing.html)
 - **Duration:** 08/2023 - current
@@ -45,7 +44,7 @@ I am a M.Sc Physics student at the University of Stuttgart, member of the Intern
 - **Description:**
   - van der Waals Heteroestructures: experimental setup of an optical characterization experiment for two-dimensional materials and some optical characterizations.
   - **Research advisor:** Prof. Dr. Yara Galvão Gobato.
-```
+
 
 
 
