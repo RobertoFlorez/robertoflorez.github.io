@@ -29,7 +29,7 @@ I am a M.Sc Physics student at the University of Stuttgart, member of the Intern
 - **Type of Work:** Undergraduate research project, funded by FAPESP
 - **Organization:** [UFSCar - Light-atom group](https://romain.df.ufscar.br/), São Carlos, SP, Brazil (08/2021 - 10/2022)
 - **Description:**
-  - Conducted high performance computing [numeric simulations](https://github.com/rupof/wavemixing_project) (Python - QuTiP) of quantum optics and atomic physics.
+  - Conducted high performance computing [numeric simulations](https://github.com/robertoflorez/wavemixing_project) (Python - QuTiP) of quantum optics and atomic physics.
   - Investigated dipole-dipole contributions to biphoton emissions of four-wave-mixing (FWM) processes. See [poster](../files/BSC_poster.pdf) and [thesis](https://repositorio.ufscar.br/bitstream/handle/ufscar/16028/TCC_RobertoF_V3.pdf?sequence=1&isAllowed=y)
   - **Research advisor:** Prof. Dr. Romain Bachelard.
 

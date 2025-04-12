@@ -12,7 +12,7 @@ title                    : "Roberto Flórez Ablan"
 title_separator          : "-"
 name                     : &name "Roberto Flórez Ablan"
 description              : &description "personal description"
-url                      : https://rupof.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://robertoflorez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -38,7 +38,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : https://github.com/rupof
+  github           : https://github.com/robertoflorez
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
